@@ -34,7 +34,7 @@
             // pixelsLabel
             // 
             this.pixelsLabel.AutoSize = true;
-            this.pixelsLabel.Location = new System.Drawing.Point(13, 13);
+            this.pixelsLabel.Location = new System.Drawing.Point(74, 104);
             this.pixelsLabel.Name = "pixelsLabel";
             this.pixelsLabel.Size = new System.Drawing.Size(121, 17);
             this.pixelsLabel.TabIndex = 0;
